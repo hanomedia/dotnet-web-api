@@ -1,0 +1,162 @@
+[
+    {
+        "Name": "Nike Sneakers 37",
+        "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+        "Price": 50,
+        "PictureUrl": "images/products/sneaker1.png",
+        "ProductTypeId": 2,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Samsung Galaxy S23 Ultra ",
+        "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+        "Price": 1700,
+        "PictureUrl": "images/products/samsung.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 2
+    },
+    {
+        "Name": "HP Elitbook G840 G4",
+        "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+        "Price": 350,
+        "PictureUrl": "images/products/hp.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 4
+    },
+    {
+        "Name": "Ford Brake pedal HQ",
+        "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+        "Price": 200,
+        "PictureUrl": "images/products/pedal.png",
+        "ProductTypeId": 4,
+        "ProductBrandId": 3
+    },
+    {
+        "Name": "Samsung 32 inch curved monitor",
+        "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+        "Price": 550,
+        "PictureUrl": "images/products/monitor.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 2
+    },
+    {
+        "Name": "Hp Wireless mouse",
+        "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+        "Price": 40,
+        "PictureUrl": "images/products/mouse.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 4
+    },
+    {
+        "Name": "Sony Xperia Z4 64GB",
+        "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+        "Price": 230,
+        "PictureUrl": "images/products/xperia.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 6
+    },
+    {
+        "Name": "Lg Curved Monitor 27 inches",
+        "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+        "Price": 420,
+        "PictureUrl": "images/products/lg.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 5
+    },
+    {
+        "Name": "Windshield wiper",
+        "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+        "Price": 160,
+        "PictureUrl": "images/products/wiper.png",
+        "ProductTypeId": 4,
+        "ProductBrandId": 3
+    },
+    {
+        "Name": "Special Handbag Blue",
+        "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+        "Price": 25,
+        "PictureUrl": "images/products/handbag.png",
+        "ProductTypeId": 2,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Samsung Galaxy A21 128 GB",
+        "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+        "Price": 230,
+        "PictureUrl": "images/products/samsung2.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 2
+    },
+    {
+        "Name": "PS4 512 GB",
+        "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+        "Price": 400,
+        "PictureUrl": "images/products/ps4.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 6
+    },
+    {
+        "Name": "Samsung galaxy S22 Ultra",
+        "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+        "Price": 1400,
+        "PictureUrl": "images/products/samsung3.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 2
+    },
+    {
+        "Name": "Hp Probook 6460b",
+        "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+        "Price": 210,
+        "PictureUrl": "images/products/hp2.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 4
+    },
+    {
+        "Name": "Modern Subwoofer",
+        "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+        "Price": 200,
+        "PictureUrl": "images/products/subwoofer.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 6
+    },
+    {
+        "Name": "Fuel Filters",
+        "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+        "Price": 35,
+        "PictureUrl": "images/products/filters.png",
+        "ProductTypeId": 4,
+        "ProductBrandId": 3
+    },
+    {
+        "Name": "Nike golf cap",
+        "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+        "Price": 15,
+        "PictureUrl": "images/products/golfcap.png",
+        "ProductTypeId": 2,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Wifi Adapter 640",
+        "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+        "Price": 100,
+        "PictureUrl": "images/products/adapter.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 4
+    },
+    {
+        "Name": "Flashdrive 64GB",
+        "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+        "Price": 110,
+        "PictureUrl": "images/products/drive.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 6
+    },
+    {
+        "Name": "HP Spectre 360",
+        "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+        "Price": 1800,
+        "PictureUrl": "images/products/spectre.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 4
+    }
+]
