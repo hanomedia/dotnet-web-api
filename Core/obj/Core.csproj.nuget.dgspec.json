@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj": {}
+    "c:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj": {
+    "c:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj",
+        "projectPath": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Hanomedia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\obj\\",
+        "outputPath": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hanomedia\\AppData\\Roaming\\NuGet\\NuGet.Config"

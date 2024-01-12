@@ -1011,11 +1011,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Hanomedia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\obj\\",
+      "outputPath": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hanomedia\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1030,8 +1030,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj"
+            "c:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj": {
+              "projectPath": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj"
             }
           }
         }
