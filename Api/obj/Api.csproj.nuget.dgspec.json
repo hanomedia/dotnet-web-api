@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\Api.csproj": {}
+    "C:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\Api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\Api.csproj": {
+    "C:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\Api.csproj",
+        "projectPath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\Api.csproj",
         "packagesPath": "C:\\Users\\Hanomedia\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\obj\\",
+        "outputPath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hanomedia\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "c:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj": {
+    "C:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Hanomedia\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hanomedia\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -145,14 +145,14 @@
         }
       }
     },
-    "c:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Hanomedia\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hanomedia\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -167,8 +167,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj": {
-                "projectPath": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj"
+              "C:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Core\\Core.csproj"
               }
             }
           }

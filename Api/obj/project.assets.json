@@ -1626,11 +1626,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\Api.csproj",
+      "projectUniqueName": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\Api.csproj",
+      "projectPath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\Api.csproj",
       "packagesPath": "C:\\Users\\Hanomedia\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\obj\\",
+      "outputPath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hanomedia\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1645,8 +1645,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "c:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
