@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0wiocjHBwx0WCRpBjZ9Tj97RczgRa0kFPg7dXjw0q1Tvjos4bXAErIDYhBd97R4czdJF+8HLlz98nvlOM7Sj/A==",
+  "dgSpecHash": "lV50VkB8KRQWQmmMPleZ3zB7Vkc69ZQ+8JJVQwuDPK4mxejCv0/SS1syp5/ltV1//WMW2KtoYTpHMtE+TGXs8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\Api.csproj",
+  "projectFilePath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hanomedia\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Hanomedia\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

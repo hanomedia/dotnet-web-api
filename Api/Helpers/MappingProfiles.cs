@@ -15,6 +15,7 @@ namespace Api.Helpers
             CreateMap<Product,ProductToReturnDto>().
             ForMember(x => x.ProductBrand,i => i.MapFrom(s => s.ProductBrand.Name)).
             ForMember(x => x.ProductType,i => i.MapFrom(s => s.ProductType.Name));
+            CreateMap<ProductToCreateDto,Product>();
         }
     }
 }

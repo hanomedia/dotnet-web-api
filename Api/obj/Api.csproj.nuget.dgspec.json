@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\Api.csproj": {}
+    "C:\\Users\\Hanomedia\\Documents\\Youtube\\api\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\Api.csproj": {
+    "C:\\Users\\Hanomedia\\Documents\\Youtube\\api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\Hanomedia\\Documents\\Youtube\\api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\Api.csproj",
+        "projectPath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\api\\Api.csproj",
         "packagesPath": "C:\\Users\\Hanomedia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\Api\\obj\\",
+        "outputPath": "C:\\Users\\Hanomedia\\Documents\\Youtube\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hanomedia\\AppData\\Roaming\\NuGet\\NuGet.Config"
